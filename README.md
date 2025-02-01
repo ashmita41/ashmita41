@@ -1,5 +1,5 @@
 # Hii 👋 I'm Ashmita Pandey
-#💫 About Me: 💡 Problem Solver, Tech Enthusiast, and Learner  <br><br>🔹 Mastering Data Structures & Algorithms through LeetCode challenges  <br>🔹 Exploring Web Development with React  <br>🔹 Passionate about solving real-world problems with technology  <br><br>💬 Ask me about: Java DSA, Web Development, and Tech Careers  <br>⚡ Fun Fact: I thrive on innovation, networking, and pushing limits!  <br>
+💫 About Me: 💡 Problem Solver, Tech Enthusiast, and Learner  <br><br>🔹 Mastering Data Structures & Algorithms through LeetCode challenges  <br>🔹 Exploring Web Development with React  <br>🔹 Passionate about solving real-world problems with technology  <br><br>💬 Ask me about: Java DSA, Web Development, and Tech Careers  <br>⚡ Fun Fact: I thrive on innovation, networking, and pushing limits!  <br>
 
 
 ## 🌐 Socials:
