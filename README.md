@@ -11,7 +11,7 @@
 - 🌏 Nationality: 🇮🇳  
 - 🧠 Interests: 🧩 Public Speaking • 💡 Problem Solving • 🧑‍💻 Development • 📚 Teaching • 📈 Business Growth  
 - ✈️ Countries I want to visit: 🇯🇵 🇸🇬 🇳🇱 🇺🇸 🇫🇮  
-- 📍 Currently based in: 📍 Udaipur, IN
+- 📍 Currently based in: 📍 Bengaluru, IN
 
 🔗 [Connect on LinkedIn](https://linkedin.com/in/ashmitapandey47)  
 📝 [Read my articles on LinkedIn](https://www.linkedin.com/in/ashmitapandey47/recent-activity/articles/)  
